@@ -1,5 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Rust.
+- 💼 I'm working with query enigne stuff with GIS in the company.
+- 📝 I'm planning to build a full judge system with Rust.
+- 🌱 I’m deciding to improve my frontend skills.
+- 🌱 I’m deciding to recover my algorithm skills.
+
 <!--
 **slhmy/slhmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
