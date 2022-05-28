@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 💼 I'm working with query enigne stuff with GIS in the company.
+- 💼 I'm working with cloud native stuffs recently.
 - 📝 I'm planning to build a full judge system with Rust.
+- 📕 I'm learning Webassembly.
 - 🌱 I’m deciding to improve my frontend skills.
 - 🌱 I’m deciding to recover my algorithm skills.
 
