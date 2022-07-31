@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 💼 I lost my job recently, finding a better one ...
-- 📝 I'm planning to build a full judge system with Rust.
-- 📕 I'm learning WebAssembly.
+- 📝 I'm planning to build a full judge system.
 - 🌱 I’m deciding to improve my frontend skills.
 - 🌱 I’m deciding to recover my algorithm skills.
 
