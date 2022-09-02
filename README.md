@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+My personal blog is online now! Check in [slhmy.github.io](https://slhmy.github.io/).
+
 - 💼 I lost my job recently, finding a better one ...
 - 📝 I'm planning to build a full judge system.
 - 🌱 I’m deciding to improve my frontend skills.
