@@ -2,7 +2,7 @@
 
 My personal blog is online now! Check in [slhmy.github.io](https://slhmy.github.io/).
 
-- 💼 I lost my job recently, finding a better one ...
+- 💼 I recently entered a new company, acting as Software Develop Engineer.
 - 📝 I'm planning to build a full judge system.
 - 🌱 I’m deciding to improve my frontend skills.
 - 🌱 I’m deciding to recover my algorithm skills.
