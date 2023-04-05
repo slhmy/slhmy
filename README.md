@@ -2,10 +2,10 @@
 
 My personal blog is online now! Check in [slhmy.github.io](https://slhmy.github.io/).
 
-- 💼 I recently entered a new company, acting as Software Develop Engineer.
+- 💼 Acting as Software Develop Engineer, and working with GameEngine/CloudNative/Urban/Industry.
 - 📝 I'm planning to build a full judge system.
-- 🌱 I’m deciding to improve my frontend skills.
-- 🌱 I’m deciding to recover my algorithm skills.
+- 🌱 Learning Unity/Blender recently.
+- 🤖 May learn some AI stuff later.
 
 <!--
 **slhmy/slhmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
