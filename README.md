@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My personal blog is online now! Check in [slhmy.github.io](https://slhmy.github.io/).
+My personal blog is online now! Check in [slhmy.github.io/blog](https://slhmy.github.io/blog).
 And I'm really willing to recommend my preparing knowledge base on [slhmy.github.io/full-stack-docusaurus/](https://slhmy.github.io/full-stack-docusaurus/)
 
 - 💼 Acting as Software Develop Engineer, and working with GameEngine/CloudNative/Urban/Industry.
