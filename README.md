@@ -8,9 +8,5 @@ And I'm really willing to recommend my preparing knowledge base on [slhmy.github
 - 🌱 Learning Unity/Blender recently.
 - 🤖 May learn some AI stuff later.
 
-<!--
-Hidding this Top Langs section since it doesn't contains org codes, which can be not acurate.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slhmy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
---->
-
+[![slhmy's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slhmy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![slhmy's github stats](https://github-readme-stats.vercel.app/api?username=slhmy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
